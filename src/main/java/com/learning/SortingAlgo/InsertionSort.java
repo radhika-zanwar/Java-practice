@@ -18,6 +18,7 @@ public class InsertionSort {
         }
         System.out.println("--AfterSort--");
         PrintArray(arr);
+        System.out.println("---end of program");
     }
 
 
